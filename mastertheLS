@@ -1,0 +1,3 @@
+#! /bin/bash
+
+ls -u | ls -tp | ls -p | ls -m | sed 's/ //g'
