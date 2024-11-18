@@ -1,6 +1,6 @@
 Hello there,
 
-These were my own solutions for the first intensive month to learn Golang (piscine-go with 01-edu).
+These were my own solutions for the first intensive month to learn Golang (piscine-go with Notredame university & 01-edu).
 PLEASE DO NOT COPY ANY SOLUTION!!!! Try to understand the task and solve it on your own. 
 This is your objective, to LEARN!
 This repo is just for HELP.
